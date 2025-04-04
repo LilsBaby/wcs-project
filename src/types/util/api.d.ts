@@ -1,0 +1,1 @@
+export type API_URL_PATH = `https://${string}.${string}${string}=${string}`
